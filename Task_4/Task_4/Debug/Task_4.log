@@ -1,0 +1,4 @@
+﻿  tyrion4.cpp
+d:\lab\task_4\task_4\tyrion4.cpp(48): warning C4804: '/': unsafe use of type 'bool' in operation
+d:\lab\task_4\task_4\tyrion4.cpp(23): warning C4715: 'IsOdd': not all control paths return a value
+  Task_4.vcxproj -> D:\Lab\Task_4\Debug\Task_4.exe
